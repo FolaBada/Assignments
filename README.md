@@ -1,28 +1,14 @@
-# Assignments
- 
-# Week 3
-
-**Task A and B**
+# Week 5
 
 ## Stack
 
-<p>Stack: HTML, CSS, JAVASCRIPT</p>
+<p>Git and Github</p>
 
-# Replit Links
-
-### _Portfolio Pages_
-
-<a href="https://replit.com/@FolaBada/MyPortfolio#index.html" target="_blank">Click Here</a>
-
-### _Registration Pages_
-
-<a href="https://replit.com/@FolaBada/BamChat#index.html" target="_blank">Click Here</a>
 
 # Concepts Learned
 
-* Form Validation
-* Patterns
-* Responsive Designs
-* Use Of Icons
-* Creating Responsive Navbars
-* Use of Images
+* Initailizing Git
+* Creating a Preofile.md file in Github
+* Branching
+* merging Conflicits
+* Contributing on Projects
