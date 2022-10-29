@@ -1,28 +1,18 @@
-# Assignments
- 
-# Week 3
+# Week 4
 
-**Task A and B**
+**Task A **
 
-## Stack
+ ## Stack
 
 <p>Stack: HTML, CSS, JAVASCRIPT</p>
 
-# Replit Links
+### _Grid and Flexbox_
 
-### _Portfolio Pages_
-
-<a href="https://replit.com/@FolaBada/MyPortfolio#index.html" target="_blank">Click Here</a>
-
-### _Registration Pages_
-
-<a href="https://replit.com/@FolaBada/BamChat#index.html" target="_blank">Click Here</a>
+<a href="https://replit.com/@FolaBada/Flexbox-and-Gridbox?c=479193" target="_blank">Click Here</a>
 
 # Concepts Learned
 
-* Form Validation
-* Patterns
-* Responsive Designs
-* Use Of Icons
-* Creating Responsive Navbars
-* Use of Images
+* Responsive Web Design
+* Working with svgs
+* Use of Grid for entire page layout
+* Use of Flexbox to Position/aligm items
